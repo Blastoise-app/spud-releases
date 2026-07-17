@@ -3,6 +3,15 @@
     <channel>
         <title>spud</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Thu, 16 Jul 2026 22:19:56 -0700</pubDate>
+            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.2/spud-1.2.zip" length="21295241" type="application/octet-stream" sparkle:edSignature="mxQF+z9t3RwHNvbBgs0A6hqTENDQV/6qmCekzW8z8E3v+huTldKXZ5Q0mjVrtlYhGdxcFrDkPB8zuQ3ONZWwDw=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Wed, 10 Jun 2026 13:01:38 -0700</pubDate>
             <link>https://github.com/Blastoise-app/spud-releases/releases</link>
