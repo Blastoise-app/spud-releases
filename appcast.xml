@@ -3,6 +3,15 @@
     <channel>
         <title>spud</title>
         <item>
+            <title>1.7</title>
+            <pubDate>Tue, 22 Sep 2026 21:09:55 -0700</pubDate>
+            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
+            <sparkle:version>1.7</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.7/spud-1.7.zip" length="22503819" type="application/octet-stream" sparkle:edSignature="gq02zKKT5AOood7MyYTYOY4vCGroX8sqr/J1F61P7/GdkYisY3cHmsrFJgioWdV/Flo9hIpZxmzIX8RxoF5XDw=="/>
+        </item>
+        <item>
             <title>1.6</title>
             <pubDate>Thu, 03 Sep 2026 17:54:43 -0700</pubDate>
             <link>https://github.com/Blastoise-app/spud-releases/releases</link>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.5/spud-1.5.zip" length="22270128" type="application/octet-stream" sparkle:edSignature="h64yxrASYns2ihkEFluk1ADK4XJ4olvk62AyEZkV20DS26E1gO/XHMeWwPTNFJR1n9l1idSeicfOp9R3/WhMDA=="/>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Mon, 17 Aug 2026 13:28:45 -0700</pubDate>
-            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
-            <sparkle:version>1.4</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.4/spud-1.4.zip" length="21651381" type="application/octet-stream" sparkle:edSignature="SzQ9SgagguIMMOyv002/u4ie0tMQJFilSPc2mboqhxNDkOkwcaDRN93c46iOSiwHOQqSwqi9W+euguyPvb/oDA=="/>
         </item>
     </channel>
 </rss>
