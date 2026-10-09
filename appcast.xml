@@ -3,6 +3,15 @@
     <channel>
         <title>spud</title>
         <item>
+            <title>1.9</title>
+            <pubDate>Fri, 09 Oct 2026 13:40:31 -0700</pubDate>
+            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
+            <sparkle:version>1.9</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.9/spud-1.9.zip" length="22590422" type="application/octet-stream" sparkle:edSignature="da2CVaX65gnt/5+/v0W6Rvt2UAvDxX3jtmQ/F0RmLH0JnjSh684CddL2W8jq96JMbPPCl701hKOTGdxVXTD5CA=="/>
+        </item>
+        <item>
             <title>1.8</title>
             <pubDate>Thu, 08 Oct 2026 15:17:49 -0700</pubDate>
             <link>https://github.com/Blastoise-app/spud-releases/releases</link>
@@ -19,15 +28,6 @@
             <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.7/spud-1.7.zip" length="22503819" type="application/octet-stream" sparkle:edSignature="gq02zKKT5AOood7MyYTYOY4vCGroX8sqr/J1F61P7/GdkYisY3cHmsrFJgioWdV/Flo9hIpZxmzIX8RxoF5XDw=="/>
-        </item>
-        <item>
-            <title>1.6</title>
-            <pubDate>Thu, 03 Sep 2026 17:54:43 -0700</pubDate>
-            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
-            <sparkle:version>1.6</sparkle:version>
-            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.6/spud-1.6.zip" length="22395669" type="application/octet-stream" sparkle:edSignature="KUvo6CV6gQ/4JzXvSIx79uamTto8S8Wf6snzXyEptpqGumU0lYuDw3AJyLGiICLVu3VN4wZLv0KpUM6LYt/UDQ=="/>
         </item>
     </channel>
 </rss>
