@@ -3,6 +3,22 @@
     <channel>
         <title>spud</title>
         <item>
+            <title>2.0</title>
+            <pubDate>Mon, 26 Oct 2026 17:42:28 -0700</pubDate>
+            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
+            <sparkle:version>2.0</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's new in Spud 2.0</h2>
+<p><strong>Your subscription, managed from inside Spud.</strong> Settings → Account now shows exactly which plan you're on and when the next charge is, with a one-click <strong>Manage or Cancel Subscription</strong> button that opens your billing page already signed in. Cancel, resume, or update your card without hunting for an email.</p>
+<p><strong>A heads-up before any charge.</strong> If you're on a trial, Spud reminds you two days before it ends, with the date and the amount, and a button to cancel right there.</p>
+<p><strong>A clearer first run.</strong> Setup now walks you through signing in and starting your trial before the tour, so Spud is fully unlocked by the time you save your first workspace.</p>
+<p><strong>Nothing you make is ever lost.</strong> If a subscription lapses or a card fails, Spud tells you plainly what happened and what to do. Your workspaces, snippets, and clipboard history stay on your Mac and come right back the moment you're subscribed again.</p>
+<p><strong>One plan.</strong> Spud is now a single plan, Spud Pro at $4.99/month, with a 10-day free trial. You add a card to start, nothing is charged for 10 days, and cancelling before the trial ends means you pay nothing. The free tier is gone: if you've been using Spud without Pro, this update will ask you to sign in and start the trial. Existing Pro subscribers, and anyone who unlocked Spud with the link in their receipt, are unaffected.</p>
+]]></description>
+            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v2.0/spud-2.0.zip" length="22655571" type="application/octet-stream" sparkle:edSignature="YGheydj95TltfxrwFd6U+xekbfwnH2SOFqG1mOfq2WLz1KvnCM5e/JsQ0nMv5z0Jqh59z9tdjFTvsdJqfVbyBg=="/>
+        </item>
+        <item>
             <title>1.9</title>
             <pubDate>Fri, 09 Oct 2026 13:40:31 -0700</pubDate>
             <link>https://github.com/Blastoise-app/spud-releases/releases</link>
@@ -19,15 +35,6 @@
             <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.8/spud-1.8.zip" length="22507637" type="application/octet-stream" sparkle:edSignature="FIU13nI1KYPuzZDjQUMmQAF5GMuMPGv/YZ4rdKITWz37mGRKVUwQBsMTqXpvB0zO/NdThyiVMicYq6fkPv9CAg=="/>
-        </item>
-        <item>
-            <title>1.7</title>
-            <pubDate>Tue, 22 Sep 2026 21:09:55 -0700</pubDate>
-            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
-            <sparkle:version>1.7</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.7/spud-1.7.zip" length="22503819" type="application/octet-stream" sparkle:edSignature="gq02zKKT5AOood7MyYTYOY4vCGroX8sqr/J1F61P7/GdkYisY3cHmsrFJgioWdV/Flo9hIpZxmzIX8RxoF5XDw=="/>
         </item>
     </channel>
 </rss>
