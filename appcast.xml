@@ -3,6 +3,22 @@
     <channel>
         <title>spud</title>
         <item>
+            <title>2.1</title>
+            <pubDate>Thu, 12 Nov 2026 12:47:19 -0800</pubDate>
+            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
+            <sparkle:version>2.1</sparkle:version>
+            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's new in Spud 2.1</h2>
+<p><strong>Workspaces now remember what your Finder and Terminal windows were showing.</strong> Until now a workspace put those windows back in the right place, but empty. Now Spud saves the folder each Finder window had open, and the folder and Claude Code conversation each Terminal tab was in, and reopens them when you switch back.</p>
+<p><strong>See what will come back before you save.</strong> The save panel opens right away and lists what each window will bring back: a folder, a conversation, browser tabs, or just its position. When you save, Spud confirms it with a "Workspace saved" notice.</p>
+<p><strong>Choose what happens to everything else.</strong> Each workspace can hide your other apps when you switch to it, or leave them open. Pick when you save, or change it later from the workspace's menu.</p>
+<p><strong>Leave a workspace and get your screen back.</strong> "Leave" puts everything back the way it was before you switched in. Windows you opened in the meantime go to the Dock instead of being closed, so anything running in them keeps running.</p>
+<p>The first time Spud reopens a Finder folder or a Terminal session, macOS asks whether Spud may control that app. Choose Allow so Spud can bring your windows back.</p>
+]]></description>
+            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v2.1/spud-2.1.zip" length="22967924" type="application/octet-stream" sparkle:edSignature="ICyp8iY22mLZbPXykGP3oxo0Q7SCgwXFHn61JhZOP6CYFRCC8+lO8puatg37AP8KiZjCvSaB1hzXrTbMtvTvAw=="/>
+        </item>
+        <item>
             <title>2.0</title>
             <pubDate>Mon, 26 Oct 2026 17:42:28 -0700</pubDate>
             <link>https://github.com/Blastoise-app/spud-releases/releases</link>
@@ -26,15 +42,6 @@
             <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.9/spud-1.9.zip" length="22590422" type="application/octet-stream" sparkle:edSignature="da2CVaX65gnt/5+/v0W6Rvt2UAvDxX3jtmQ/F0RmLH0JnjSh684CddL2W8jq96JMbPPCl701hKOTGdxVXTD5CA=="/>
-        </item>
-        <item>
-            <title>1.8</title>
-            <pubDate>Thu, 08 Oct 2026 15:17:49 -0700</pubDate>
-            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
-            <sparkle:version>1.8</sparkle:version>
-            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.8/spud-1.8.zip" length="22507637" type="application/octet-stream" sparkle:edSignature="FIU13nI1KYPuzZDjQUMmQAF5GMuMPGv/YZ4rdKITWz37mGRKVUwQBsMTqXpvB0zO/NdThyiVMicYq6fkPv9CAg=="/>
         </item>
     </channel>
 </rss>
