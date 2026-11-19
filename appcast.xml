@@ -3,6 +3,23 @@
     <channel>
         <title>spud</title>
         <item>
+            <title>2.2</title>
+            <pubDate>Thu, 19 Nov 2026 15:56:56 -0800</pubDate>
+            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
+            <sparkle:version>2.2</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's new in Spud 2.2</h2>
+<p>This update is mostly fixes for Workspaces.</p>
+<p><strong>Workspaces put the right window back.</strong> Spud is much better at telling an app's windows apart, so a workspace no longer moves the wrong one. A window it can't identify is left where it is.</p>
+<p><strong>Edit a workspace.</strong> Choose Edit… from a workspace's menu to add or remove windows, rename it, or update where its windows sit, in the same panel you save with.</p>
+<p><strong>Choose which browser tabs come back.</strong> A browser window now lists its open tabs when you save or edit. Check the ones the workspace should reopen. Dia is supported.</p>
+<p><strong>"Leave" is replaced by "Bring Back What Was Hidden".</strong> Opening a workspace no longer has to be undone. If it hid apps or sent windows to the Dock, one command brings them back.</p>
+<p><strong>Reminders for windows Spud can't see into.</strong> When Spud can only put a window back in place, you can add a short note or a link on its row, and Spud shows it after you open the workspace.</p>
+]]></description>
+            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v2.2/spud-2.2.zip" length="23208674" type="application/octet-stream" sparkle:edSignature="sJB+We4fs5+A1FT6fT9K7OgFKmRnXGk3l8Guazt2iC286X3pyryZdSq1HFOByqL4/o79Pc1wRD+jZHF+rWy8Cg=="/>
+        </item>
+        <item>
             <title>2.1</title>
             <pubDate>Thu, 12 Nov 2026 12:47:19 -0800</pubDate>
             <link>https://github.com/Blastoise-app/spud-releases/releases</link>
@@ -33,15 +50,6 @@
 <p><strong>One plan.</strong> Spud is now a single plan, Spud Pro at $4.99/month, with a 10-day free trial. You add a card to start, nothing is charged for 10 days, and cancelling before the trial ends means you pay nothing. The free tier is gone: if you've been using Spud without Pro, this update will ask you to sign in and start the trial. Existing Pro subscribers, and anyone who unlocked Spud with the link in their receipt, are unaffected.</p>
 ]]></description>
             <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v2.0/spud-2.0.zip" length="22655571" type="application/octet-stream" sparkle:edSignature="YGheydj95TltfxrwFd6U+xekbfwnH2SOFqG1mOfq2WLz1KvnCM5e/JsQ0nMv5z0Jqh59z9tdjFTvsdJqfVbyBg=="/>
-        </item>
-        <item>
-            <title>1.9</title>
-            <pubDate>Fri, 09 Oct 2026 13:40:31 -0700</pubDate>
-            <link>https://github.com/Blastoise-app/spud-releases/releases</link>
-            <sparkle:version>1.9</sparkle:version>
-            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Blastoise-app/spud-releases/releases/download/v1.9/spud-1.9.zip" length="22590422" type="application/octet-stream" sparkle:edSignature="da2CVaX65gnt/5+/v0W6Rvt2UAvDxX3jtmQ/F0RmLH0JnjSh684CddL2W8jq96JMbPPCl701hKOTGdxVXTD5CA=="/>
         </item>
     </channel>
 </rss>
